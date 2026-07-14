@@ -144,7 +144,7 @@ Please download the dataset from the official source before running the notebook
 
 ---
 
-## Author
+## Contributors
 
 Vo Quoc Khanh
 
